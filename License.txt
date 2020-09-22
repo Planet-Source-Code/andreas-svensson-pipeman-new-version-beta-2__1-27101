@@ -1,0 +1,29 @@
+ ______    ______    __       __    ______
+/\  ___\  /\  __ \  /\ \     /\ \  /\  __ \
+\ \ \__/_ \ \ \/\ \ \ \ \    \ \ \ \ \ \/\ \
+ \ \____ \ \ \ \ \ \ \ \ \    \ \ \ \ \ \ \ \
+  \/___/\ \ \ \ \_\ \ \ \ \___ \ \ \ \ \ \/ /
+    /\_____\ \ \_____\ \ \____\ \ \_\ \ \__/
+    \/_____/  \/_____/  \/____/  \/_/  \/_/
+                                 SOLUTIONS
+
+ ========= License and disclaimer =========
+ These files may be used in anyway the user
+ would like. Change and include without any
+ authorization from Solid Solutions. Though
+ Solid Solutions aren't responsible for any
+ unwanted happening caused by usage of this
+ file. For support and bug report use mail.
+ Any files or parts of this package may not
+ be sold in any way without the permission.
+ Unless your application or game requires a
+ file from this package. Unless the file is
+ a part of finished applications or games.
+
+ ========= Terms of distributing ==========
+ This file "License.txt" may not be deleted
+ or modified and must always be included.
+
+ =============== Contacting ===============
+ Web:    http://home.bip.net/andreas_sweden
+ E-mail: andreas_sweden@telia.com
